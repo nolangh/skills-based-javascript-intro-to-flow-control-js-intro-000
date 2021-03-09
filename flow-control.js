@@ -1,11 +1,11 @@
-function basicTeenager(21) {
-  if(age <= 19 && age >= 13){
+function basicTeenager(age) {
+    if(age <= 19 && age >= 13){
       'You are a teenager'
+    }
+      else {
+        'You are not a teenager'
+      }
   }
-  else {
-    'You are not a teenager'
-  }
-}
 
 function teenager(age) {
 
