@@ -27,7 +27,8 @@ function ageChecker(age) {
 }
 
 function ternaryTeenager(age) {
-
+? "You are a teenager"
+  :
 }
 
 function switchAge(age) {
