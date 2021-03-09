@@ -19,7 +19,10 @@ function ageChecker(age) {
         return 'You are a teenager!'
     } 
     else if () {
-        return 'You are not a teenager'
+        return "You are a kid"
+    }
+    else () {
+      return 
     }
 }
 
